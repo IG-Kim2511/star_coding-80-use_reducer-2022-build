@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/star_coding-80-use_reducer-2022-build/static/css/main.c9745797.css",
+    "main.js": "/star_coding-80-use_reducer-2022-build/static/js/main.687e87e2.js",
+    "index.html": "/star_coding-80-use_reducer-2022-build/index.html",
+    "main.c9745797.css.map": "/star_coding-80-use_reducer-2022-build/static/css/main.c9745797.css.map",
+    "main.687e87e2.js.map": "/star_coding-80-use_reducer-2022-build/static/js/main.687e87e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9745797.css",
+    "static/js/main.687e87e2.js"
+  ]
+}
